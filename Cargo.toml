@@ -1,0 +1,26 @@
+[package]
+name = "ying"
+authors = ["Xu Shaohua <shaohua@biofan.org>"]
+description = "3D data processing library for Rust"
+homepage = "https://github.com/RustVis/ying"
+repository = "https://github.com/RustVis/ying"
+documentation = "https://docs.rs/ying"
+readme = "README.md"
+categories = [
+  "computer-vision",
+  "graphics",
+  "rendering",
+  "visualization",
+]
+keywords = [
+  "3d",
+  "wgpu",
+  "rendering",
+  "visualization",
+]
+edition = "2021"
+license = "Apache-2.0"
+publish = true
+
+
+[dependencies]
