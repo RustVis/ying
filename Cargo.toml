@@ -1,5 +1,6 @@
 [package]
 name = "ying"
+version = "0.1.0"
 authors = ["Xu Shaohua <shaohua@biofan.org>"]
 description = "3D data processing library for Rust"
 homepage = "https://github.com/RustVis/ying"
@@ -23,3 +24,4 @@ license = "Apache-2.0"
 publish = true
 
 [dependencies]
+wgpu = "0.15.0"
